@@ -1,0 +1,13 @@
+C:\Users\tom.solway\source\repos\Covea\Covea\bin\Debug\netcoreapp3.1\Covea.exe
+C:\Users\tom.solway\source\repos\Covea\Covea\bin\Debug\netcoreapp3.1\Covea.deps.json
+C:\Users\tom.solway\source\repos\Covea\Covea\bin\Debug\netcoreapp3.1\Covea.runtimeconfig.json
+C:\Users\tom.solway\source\repos\Covea\Covea\bin\Debug\netcoreapp3.1\Covea.runtimeconfig.dev.json
+C:\Users\tom.solway\source\repos\Covea\Covea\bin\Debug\netcoreapp3.1\Covea.dll
+C:\Users\tom.solway\source\repos\Covea\Covea\bin\Debug\netcoreapp3.1\Covea.pdb
+C:\Users\tom.solway\source\repos\Covea\Covea\obj\Debug\netcoreapp3.1\Covea.csprojAssemblyReference.cache
+C:\Users\tom.solway\source\repos\Covea\Covea\obj\Debug\netcoreapp3.1\Covea.AssemblyInfoInputs.cache
+C:\Users\tom.solway\source\repos\Covea\Covea\obj\Debug\netcoreapp3.1\Covea.AssemblyInfo.cs
+C:\Users\tom.solway\source\repos\Covea\Covea\obj\Debug\netcoreapp3.1\Covea.csproj.CoreCompileInputs.cache
+C:\Users\tom.solway\source\repos\Covea\Covea\obj\Debug\netcoreapp3.1\Covea.dll
+C:\Users\tom.solway\source\repos\Covea\Covea\obj\Debug\netcoreapp3.1\Covea.pdb
+C:\Users\tom.solway\source\repos\Covea\Covea\obj\Debug\netcoreapp3.1\Covea.genruntimeconfig.cache
